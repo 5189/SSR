@@ -1,0 +1,8 @@
+# Block iOS Update
+DOMAIN,mesu.apple.com,REJECT
+DOMAIN,gdmf.apple.com,REJECT
+DOMAIN,updates-http.cdn-apple.com,REJECT
+DOMAIN,xp.apple.com,REJECT
+DOMAIN,ocsp.int-x3.letsencrypt.org,REJECT
+DOMAIN,ocsp.apple.com,REJECT
+DOMAIN,world-gen.g.aaplimg.com,REJECT
