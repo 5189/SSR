@@ -1,0 +1,8 @@
+Surge模块备份
+#更新地址:https://github.com/Choler/Surge/tree/master/Module
+#抖音去广告
+https://raw.githubusercontent.com/Choler/Surge/master/Module/douyin.sgmodule
+#youtube去片头广告
+https://raw.githubusercontent.com/Choler/Surge/master/Module/youtube.sgmodule
+#youku去片头广告
+https://raw.githubusercontent.com/Choler/Surge/master/Module/youku.sgmodule
